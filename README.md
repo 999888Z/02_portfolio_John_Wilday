@@ -7,3 +7,4 @@ This project is a page that will provide a prospective employer with a porfolio 
 
 # link to deployed application
 
+https://999888z.github.io/02_portfolio_John_Wilday/
