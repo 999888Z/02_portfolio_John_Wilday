@@ -97,7 +97,10 @@ footer {
   font-size: 25px;
   background-color: white;
 }
-
+/* added styling to text on pictures */
 @media screen and (max-width: 580px) {
+  .bottom-right { 
+    margin-left: 40%;
+  }
 }
 /* added media screen to adjust for screen size */
